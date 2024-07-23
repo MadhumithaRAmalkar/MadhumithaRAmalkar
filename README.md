@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m Madhumitha R., a dedicated computer science 
 
 ## 📫 **How to reach me:**
 - 🔗 LinkedIn: [Madhumitha R.](https://www.linkedin.com/in/madhumitha-r-123456789/)
-- 📧 Email: madhumitha.r@example.com
+- 📧 Email: mitha0179@gmail.com
 - 🐙 GitHub: [@MadhumithaRAmalkar](https://github.com/MadhumithaRAmalkar)
 
 ## 😄 **Pronouns:**
